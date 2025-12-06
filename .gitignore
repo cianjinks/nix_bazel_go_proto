@@ -1,0 +1,5 @@
+.direnv
+bazel-bin
+bazel-nix_bazel_go_proto
+bazel-out
+bazel-testlogs
